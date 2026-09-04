@@ -1,0 +1,6 @@
+{
+  "name": "Design System Metrics Dashboard",
+  "description": "Dashboard para medir la adopción, desarrollo en React, documentación en StoryBook y fixes visuales de la librería de componentes UX/UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
